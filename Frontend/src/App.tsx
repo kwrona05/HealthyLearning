@@ -4,6 +4,7 @@ const App = () => {
     <Router>
       <Routes>
         <Route />
+        <Route />
       </Routes>
     </Router>
   );
